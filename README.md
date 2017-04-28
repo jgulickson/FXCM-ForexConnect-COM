@@ -2,9 +2,12 @@
 
 ## Overview
 #### Summary
-Repository contains an Excel (*.xlsm) spreadsheet which sources select account related information from a real or demo [FXCM](https://www.fxcm.com) trading account via the [ForexConnect API](https://www.fxcm.com/uk/trading-services/api-trading/technology/) with [COM wrapper](http://fxcodebase.com/wiki/index.php/Using_ForexConnect_in_COM).  Additional information is then calculated within Excel to reach an end objective of an account dashboard.  Project was originally created as a proof of concept in 2013.
+Repository contains an Excel (\*.xlsm) spreadsheet which sources select account related information from a real or demo [FXCM](https://www.fxcm.com) trading account via the [ForexConnect API](https://www.fxcm.com/uk/trading-services/api-trading/technology/) with [COM wrapper](http://fxcodebase.com/wiki/index.php/Using_ForexConnect_in_COM).  Additional information is then calculated within Excel to reach an end objective of an account dashboard.  Project was originally created as a proof of concept in 2013.
 
 ![Account-Dashboard](/README-Images/Account-Dashboard.png)
+
+#### Note
+The end deliverable is the Excel spreadsheet however all VBA code has been exported to (\*.bas) and (\*.cls) files in an attempt to improve for online consumability.
 
 #### Requirements
 1. ForexConnect API ([Download](http://fxcodebase.com/wiki/index.php/Download)).
