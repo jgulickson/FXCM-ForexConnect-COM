@@ -7,7 +7,7 @@ Repository contains an Excel (\*.xlsm) spreadsheet which sources select account 
 ![Account-Dashboard](/README-Images/Account-Dashboard.png)
 
 #### Note
-The end deliverable is the Excel spreadsheet however all VBA code has been exported to (\*.bas) and (\*.cls) files in an attempt to improve for online consumability.
+The end deliverable is the Excel spreadsheet in this repository however all VBA code has been exported to (\*.bas) and (\*.cls) files in an attempt to improve consumability online.
 
 #### Requirements
 1. ForexConnect API ([Download](http://fxcodebase.com/wiki/index.php/Download)).
@@ -17,9 +17,9 @@ The end deliverable is the Excel spreadsheet however all VBA code has been expor
 3. The account must be enabled for ForexConnect API access; contact FXCM for more information.
 
 ## **Installation**
-1. Clone or download desired Account-Dashboard.xlsm file from this repository.
+1. Clone or download 'Account-Dashboard.xlsm' file from this repository.
 
-2. Launch Account-Dashboard.xlsm after completed the steps outlined in 'Requirements' section above.
+2. Open 'Account-Dashboard.xlsm' after completed the steps outlined in 'Requirements' section above.
 
 3. When asked, select 'Enable' macros.
 
