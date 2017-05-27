@@ -1,4 +1,4 @@
-# FX-ForexConnect-COM
+# FXCM-ForexConnect-COM
 
 ## Overview
 #### Summary
